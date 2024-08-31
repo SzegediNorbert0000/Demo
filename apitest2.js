@@ -46,7 +46,7 @@ async function getPetData(pet) {
 
 // Példa az objektum létrehozására és elküldésére
 const pet = createPet(
-    1,                     // id
+    3,                     // id
     2,                     // categoryId
     "Pets",                // categoryName
     "doggie",              // name
