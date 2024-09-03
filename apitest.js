@@ -45,7 +45,7 @@ function getPetData(pet) {
 
 // Példa az objektum létrehozására és elküldésére
 const pet = createPet(
-    11,                     // id
+    131,                     // id
     2,                     // categoryId
     "Pets",                // categoryName
     "doggie",              // name
